@@ -1,9 +1,8 @@
-# mysql-shell-script-Dockerfile
-Create a Dir by the name Mysqlfile
-Go in That Dir 
-Create two files Dockerfile and init.sql
-Paste the commands in dockerfile
-Paste the commands in init.sql
-create a image using dockerfile
-Run container using the image
-Go inside the container using EXEC command
+Mysql Shell Script Dockerfile
+This project demonstrates how to create a Docker image for MySQL with an initialization SQL script. Follow the steps below to build the image and run the container.
+
+Steps to Set Up
+1. Create a Directory
+   mkdir Mysqlfile
+cd Mysqlfile
+
